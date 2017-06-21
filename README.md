@@ -4,9 +4,9 @@ Python randomly generated meme bot. Randomly generates memes from a source image
 
 The templates.rar file contains all the templates.
 
-The dimensions and offset needed to place the source image is defined in templates.py
+The dimensions and offset needed to place the source image are defined in templates.py
 
-Each template much be defined to properly fit the source image. 
+Each template must be defined to properly fit the source image. 
 
 I have pre-configured 20 templates. Any source images will work.
 
